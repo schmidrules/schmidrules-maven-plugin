@@ -13,7 +13,7 @@ Or include the plugin in the Maven build via pom.xml.
   <plugin>
     <groupId>org.schmidrules</groupId>
     <artifactId>schmidrules‐maven‐plugin</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <executions>
       <execution>
         <phase>process‐sources</phase>

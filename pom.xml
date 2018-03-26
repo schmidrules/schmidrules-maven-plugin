@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.schmidrules</groupId>
     <artifactId>schmidrules-maven-plugin</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>maven-plugin</packaging>
 
 
@@ -23,7 +23,7 @@
     <developers>
         <developer>
             <name>Oliver Grof</name>
-            <email>TBD</email>
+            <email>grofoli@gmx.net</email>
             <organization>Schmidrules</organization>
             <organizationUrl>http://schmidrules.org</organizationUrl>
         </developer>
@@ -211,7 +211,7 @@
         <dependency>
             <groupId>org.schmidrules</groupId>
             <artifactId>schmidrules</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
+            <version>1.0.0</version>
         </dependency>
 
         <dependency>
